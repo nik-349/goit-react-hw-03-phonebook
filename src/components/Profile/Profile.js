@@ -36,7 +36,7 @@ const ProfileUser = ({
     </div>
   );
 };
-
+  
 ProfileUser.propTypes = {
   username: PropTypes.string.isRequired,
   tag: PropTypes.string.isRequired,

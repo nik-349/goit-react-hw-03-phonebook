@@ -1,0 +1,17 @@
+.input__info {
+    display: block;    
+    width: 200px;
+    height: 25px;
+    margin-top: 5px;
+    color: antiquewhite;
+    background-color: transparent;
+    border: solid 1px #58dde7;
+    background-image: none;
+    background: transparent;
+    outline: none;
+
+}
+/* 
+.lable{
+    color: aliceblue;
+} */
